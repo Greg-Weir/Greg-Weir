@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Greg Weir
+- 👀 I’m interested in Cyber Security and Data Science
+- 🌱 I’m currently completing an MSc in Cyber Security.
+- 📫 Reach me at me@greg.scot
